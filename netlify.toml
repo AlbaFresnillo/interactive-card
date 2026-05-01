@@ -1,0 +1,9 @@
+[build]
+  base    = "interactive-card"
+  command = "npm run build"
+  publish = "interactive-card/dist"
+
+[[redirects]]
+  from   = "/*"
+  to     = "/index.html"
+  status = 200
