@@ -98,7 +98,8 @@ function App() {
               ].join(" ")}
             >
               ¡Feliz día de la madre! Espero que disfrutes tu regalo en Oropesa
-              con la paz, tranquilidad y felicidad que da el mar.
+              con la paz, tranquilidad y felicidad que da el mar (te está
+              esperando en Decathlon 😉)
             </p>
             <span
               className={[
