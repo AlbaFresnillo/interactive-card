@@ -1,7 +1,7 @@
 [build]
   base    = "interactive-card"
   command = "npm run build"
-  publish = "interactive-card/dist"
+  publish = "dist"
 
 [[redirects]]
   from   = "/*"
